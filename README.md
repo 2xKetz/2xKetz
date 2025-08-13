@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">🚀 Welcome to My World 🚀</h1>
 
-<!--
-**2xKetz/2xKetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="400" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 About Me
+- 🎮 CS2 Enthusiast & Tool Creator
+- 💻 Python Developer
+- 🎨 UI Customization Addict
+
+---
+
+### 🔥 My Top Projects
+[![CS2 Launcher](https://img.shields.io/badge/CS2%20Launcher-Download-blue?style=for-the-badge&logo=steam)](https://github.com/YOURUSERNAME/CS2-Launcher/releases/latest/download/CS2_Launcher.zip)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+</p>
