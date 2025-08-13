@@ -78,7 +78,7 @@ Whether it’s launching CS2 in record time or automating boring tasks, my goal 
 ---
 
 ## 💬 Contact Me
-[![Steam](https://img.shields.io/badge/Steam-2xKetz-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOURSTEAMID)
+[![Steam](https://img.shields.io/badge/Steam-2xKetz-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/2xKetz)
 [![Discord](https://img.shields.io/badge/Discord-2xKetz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOURDISCORD)
 [![GitHub](https://img.shields.io/badge/GitHub-2xKetz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2xKetz)
 
