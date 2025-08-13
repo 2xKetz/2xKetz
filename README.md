@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center" style="color: #FFD700; font-weight: bold;">💣 Welcome to the 2xKetz CS2 Arsenal 💣</h1>
+<h1 align="center" style="color: #FFD700; font-weight: bold;">💣 Welcome to the 2xKetz Profile!💣</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Counter-Strike+2+Developer;CS2+Launcher+Creator;Python+%26+Windows+Tool+Developer;Competitive+Gamer;Pro+UI+Customizer" alt="Typing Animation">
 </p>
