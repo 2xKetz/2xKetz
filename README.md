@@ -1,64 +1,59 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">🎯 Counter-Strike 2 Dev Zone 🎯</h1>
+<!-- HEADER -->
+<h1 align="center">🎯 Welcome to the 2xKetz CS2 Zone 🎯</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg3Ym5oNWhqN2F4cXN6YXl5YXF6dTdzMmVqaXg2aHJyMGhucTFwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZgLPakqP0CFd9z8x5/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U0OTN2Mm9xazR5aDhiY3hndXpzd2NndDRyNzZ1dHg4aXg3OThoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6urGFMNHU5pF4cLIUW/giphy.gif)" width="600" alt="CS2 banner">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="650" alt="CS2 intro">
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-### 🏆 Who Am I?
-- 🎮 **CS2 Enthusiast** – Competitive & Modding addict  
-- 🛠 Creator of **[CS2 Smart Launcher](https://github.com/YOURUSERNAME/CS2-Launcher/releases/latest/download/CS2_Launcher.zip)**  
-- 💻 **Python Developer** & UI customization wizard  
-- 🎨 Loves making gaming tools look & feel *pro-level*  
+## 🏆 Who Am I?
+- 🎮 **CS2 Enthusiast** – Competitive & Modding Addict  
+- 🛠 Creator of **[CS2 Smart Launcher](https://github.com/2xKetz/CS2-Launcher/releases/latest/download/CS2_Launcher.exe)**  
+- 💻 **Python Developer** & Windows Tool Maker  
+- 🎨 Loves making tools look *pro-level* and gamer-friendly  
 
 ---
 
-<!-- PROJECT BADGES -->
-### 🔥 Featured Project
-[![CS2 Launcher](https://img.shields.io/badge/CS2%20Launcher-Download-yellow?style=for-the-badge&logo=counter-strike&logoColor=white)](https://github.com/YOURUSERNAME/CS2-Launcher/releases/latest/download/CS2_Launcher.zip)
+## 🔥 Featured Project
+[![CS2 Launcher](https://img.shields.io/badge/CS2%20Launcher-Download-yellow?style=for-the-badge&logo=counter-strike&logoColor=black)](https://github.com/2xKetz/CS2-Launcher/releases/latest/download/CS2_Launcher.exe)
 [![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOURSTEAMID)
 
 ---
 
-<!-- SCREENSHOT / PREVIEW -->
+## 🎮 CS2 Action
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ0eGFkczZraXc1bmNmcjhuMWw3YmJ6Z3U0MzdicWhjdGR6YTh2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JsZbSk0NBl71k/giphy.gif" width="500" alt="CS2 gameplay">
+  <img src="https://media.giphy.com/media/Xdq8Z0pht2yrj2gdrF/giphy.gif" width="400" alt="CS2 Spray">
+  <img src="https://media.giphy.com/media/5xaOcLTbRz2UIdbN0qI/giphy.gif" width="400" alt="CS2 Headshot">
 </p>
 
 ---
 
-<!-- STATS & ACTIVITY -->
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&fire=FFD700&ring=FFD700&currStreakLabel=FFD700)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=2xKetz&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=2xKetz&theme=tokyonight&fire=FFD700&ring=FFD700&currStreakLabel=FFD700)
 
 ---
 
-<!-- SKILLS -->
-### ⚡ My Toolkit
+## ⚡ My Toolkit
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Steam API](https://img.shields.io/badge/Steam%20API-000000?style=for-the-badge&logo=steam&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Counter-Strike](https://img.shields.io/badge/Counter--Strike-FFD700?style=for-the-badge&logo=counter-strike&logoColor=black)
 
 ---
 
-<!-- FUN SECTION -->
-### 🎯 Headshot of the Day
+## 🎯 Headshot of the Day
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRnoppYtfEbemBO/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="CS2 Headshot">
 </p>
 
 ---
 
-<!-- CALL TO ACTION -->
+## 💥 Get My Launcher
 <p align="center">
-  <b>💥 Click here to grab my CS2 Smart Launcher now 💥</b><br><br>
-  <a href="https://github.com/YOURUSERNAME/CS2-Launcher/releases/latest/download/CS2_Launcher.zip">
+  <a href="https://github.com/2xKetz/CS2-Launcher/releases/latest/download/CS2_Launcher.exe">
     <img src="https://img.shields.io/badge/Download-CS2%20Launcher-FFD700?style=for-the-badge&logo=counter-strike&logoColor=black">
   </a>
 </p>
