@@ -2,7 +2,7 @@
 <h1 align="center">🎯 Welcome to the 2xKetz CS2 Zone 🎯</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="650" alt="CS2 intro">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U0OTN2Mm9xazR5aDhiY3hndXpzd2NndDRyNzZ1dHg4aXg3OThoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6urGFMNHU5pF4cLIUW/giphy.gif" width="650" alt="CS2 intro">
 </p>
 
 ---
