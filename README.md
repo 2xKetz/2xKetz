@@ -2,7 +2,7 @@
 <h1 align="center">🎯 Counter-Strike 2 Dev Zone 🎯</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg3Ym5oNWhqN2F4cXN6YXl5YXF6dTdzMmVqaXg2aHJyMGhucTFwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZgLPakqP0CFd9z8x5/giphy.gif" width="600" alt="CS2 banner">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg3Ym5oNWhqN2F4cXN6YXl5YXF6dTdzMmVqaXg2aHJyMGhucTFwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZgLPakqP0CFd9z8x5/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U0OTN2Mm9xazR5aDhiY3hndXpzd2NndDRyNzZ1dHg4aXg3OThoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6urGFMNHU5pF4cLIUW/giphy.gif)" width="600" alt="CS2 banner">
 </p>
 
 ---
