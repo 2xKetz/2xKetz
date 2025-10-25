@@ -17,6 +17,27 @@ From crafting launchers to tweaking Windows APIs, my projects combine **gamer in
 
 ---
 
+## 🖤 CS2 Dark Aether Launcher (This Repo)
+
+### ✨ Highlights
+- 🎯 Launch Counter-Strike 2 with pixel-perfect control over **resolution, refresh rate, and window mode**.
+- 🖼 Drop in your own **wallpaper or artwork** and let the UI reshape itself around your vibe.
+- 🌌 Toggle **bloom glows, retro scanlines, drifting particles**, and other atmospheric effects.
+- ⚙️ Quick toggles for `-novid`, console access, high priority queues, and other pro launch options.
+- 📁 One-click access to your CS2 `cfg` directory so tweaks are always within reach.
+
+### 🚀 Getting Started
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+python -m cs2_launcher
+```
+
+> 💡 Theme selections, launch preferences, and atmosphere toggles are stored in `~/.cs2_dark_aether_settings.json`, so your loadout is ready every time you boot.
+
+---
+
 ## 🏆 Achievements & Highlights
 - 🎮 Creator of **CS2 Smart Launcher**
 - 🖥 Expert in **Python**, **PySide6**, **Windows APIs**
